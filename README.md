@@ -56,6 +56,12 @@
             <td><a href="https://with-firebase-movie-app.herokuapp.com/">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/NewsReact.gif" alt="ProjectView" height=130></td> 
         </tr>
+        <tr>
+            <td> clarusway-web-page-with-router </td>
+            <td><a href="https://github.com/BedirhanTalhaKuzucu/clarusway-web-page-with-router" target="_blank">Repo details</a></td>
+            <td><a href="https://clarusway-web-page-with-router.netlify.app/">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./gifs/NewsReact.gif" alt="ProjectView" height=130></td> 
+        </tr>
         
 </tbody>
 </table>
