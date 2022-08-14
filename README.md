@@ -63,7 +63,7 @@
             <td><img style="width:500px;" src="./gifs/NewsReact.gif" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
-            <td> clarusway-web-page-with-router </td>
+            <td> task-tracker </td>
             <td><a href="https://github.com/BedirhanTalhaKuzucu/task-tracker" target="_blank">Repo details</a></td>
             <td><a href="https://task-tracker-withreact.netlify.app/">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/NewsReact.gif" alt="ProjectView" height=130></td> 
